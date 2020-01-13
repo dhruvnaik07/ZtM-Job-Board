@@ -10194,6 +10194,22 @@
         "state": "Dubai",
         "country": "UAE"
       }
+    },
+    {
+    "id": 731,
+    "name": "Dhruv Naik",
+    "img": "",
+    "links": {
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/dhruvnaik07",
+      "github": "https://github.com/dhruvnaik07"
+    },
+    "jobTitle": "Software Developer | Full Stack Developer",
+    "location": {
+      "city": "Harrison",
+      "state": "New Jersey",
+      "country": "United States"
     }
+  }
   ]
 }
